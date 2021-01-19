@@ -6,9 +6,6 @@
 
 > A kotlin quick example to develop a library for native, mobile and other platforms. Refers for next development tools to [maven kotlin archetypes](https://github.com/JetBrains/kotlin/tree/master/libraries/tools/maven-archetypes) 
 
-|Please donate whether you wish support us to give more time to app's growth | [![](https://www.paypal.com/en_US/IT/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=XTC895QYD28TC) |
-|:------------------------------------------------------------------------------|:------------------------------------------------------------------------------------------------------------------------------------------------------|
-
 
 ### News ###
 
